@@ -18,3 +18,9 @@ elif edad >16:#*En caso de que no se cumpla la condicion anterior y se cumpla es
 #*elif es else if
 else:
     print("Eres menor de edad")
+    
+ingresos = 2000
+gastos = 3000
+
+if ingresos < gastos:
+    print("Gastas mas de lo que ganas")
