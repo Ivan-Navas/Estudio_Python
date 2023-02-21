@@ -11,4 +11,3 @@ def Saludo(nombre, genero):
 
 Saludo("Maria","mujer")
 Saludo("Ivan","hombre")
-
