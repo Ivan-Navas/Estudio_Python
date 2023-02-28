@@ -24,3 +24,7 @@ gastos = 3000
 
 if ingresos < gastos:
     print("Gastas mas de lo que ganas")
+    
+    
+def sumar(numero1, numero2):
+    return numero1 + numero2
